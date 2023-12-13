@@ -29,5 +29,5 @@ My current focus is on mastering Full Stack Web Development, and I'm excited abo
 
 I'm always open to new opportunities, collaborations, and discussions. Feel free to connect with me on [LinkedIn](your-linkedin-profile-url)!
 
-Let's code something amazing together! 🚀
-https://github-readme-streak-stats.herokuapp.com/?user=achyuth-k-t&theme=vue-dark&hide_border=true
+Let's code something amazing together! 🚀       
+![achyuth-k-t's Streak](https://github-readme-streak-stats.herokuapp.com/?user=achyuth-k-t&theme=vue-dark&hide_border=true)
